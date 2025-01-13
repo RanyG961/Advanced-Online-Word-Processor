@@ -1,6 +1,6 @@
 # HessCODE
 
-Projet Dev Web 2 (2020/2021)
+Sophisticated web-based word processing application featuring real-time collaborative editing, providing users with an efficient and seamless document creation experience.
 
 ## Requirements
     * IDE : IntelliJ
